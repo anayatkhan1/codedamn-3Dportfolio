@@ -1,3 +1,3 @@
-tabs: ["src/App.tsx", "src/components/Hero.tsx"]
-terminals: ["bun install && bun dev"]
+tabs: ['src/App.tsx', 'src/components/Hero.tsx']
+terminals: ['bun install && bun dev']
 run-button: bun dev
